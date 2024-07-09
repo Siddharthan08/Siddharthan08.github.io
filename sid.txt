@@ -1,1 +1,2 @@
-www.facebook.com
+8.8.8.8
+4.2.2.2
