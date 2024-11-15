@@ -1,3 +1,8 @@
-1.1.1.1
-4.2.2.2
-4.4.2.2
+192.168.2.100
+172.200.1.4/16
+172.16.1.2/24
+https://www.dinamalar.com/
+https://www.amazon.in/
+www.yahoo.com
+irctc.com
+292b2e6bb027cdff4d24e338f5c48de
